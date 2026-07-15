@@ -2,10 +2,10 @@
 
 Draw in the Air Using Hand Gestures
 
-"Status" (https://img.shields.io/badge/Status-Live-success)
-"MediaPipe" (https://img.shields.io/badge/MediaPipe-Hand%20Tracking-blue)
-"Vite" (https://img.shields.io/badge/Vite-Frontend-purple)
-"JavaScript" (https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Status](https://img.shields.io/badge/Status-Live-success)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-blue)
+![Vite](https://img.shields.io/badge/Vite-Frontend-purple)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 📌 Overview
 
